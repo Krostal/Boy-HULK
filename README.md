@@ -2,9 +2,14 @@
 
 ## Report
 
-Name: Kristian
-Nik: Boy-HULK
-Age: 2 years and 4 months
+**Name:** Kristian
 
-![Photo]()
+**Nik:** Boy-HULK
+
+**Date of birth:** 01.01.2021
+
+**Current location:** Unknown
+
+Last photo in January 2023:
+![Photo](https://github.com/Krostal/Boy-HULK/blob/main/photo.jpg)
 
